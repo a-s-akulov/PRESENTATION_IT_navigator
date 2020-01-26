@@ -43,7 +43,7 @@ source code can come in handy
 
 Used modules:
 
-  import time,
+  time,
   sys,
   os,
   pyodbc,
